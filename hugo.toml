@@ -2,3 +2,7 @@ baseURL = 'https://philstats.org/'
 languageCode = 'en-uk'
 title = 'Topics in Philosophy of Statistics'
 theme = 'ananke'
+
+[security]
+  [security.exec]
+    allow = ['asciidoctor']

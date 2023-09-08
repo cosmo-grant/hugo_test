@@ -1,0 +1,17 @@
+---
+title: "My Second Post"
+date: 2023-09-08T22:14:37+01:00
+draft: true
+---
+= Hello, AsciiDoc!
+Doc Writer <doc@example.com>
+
+An introduction to http://asciidoc.org[AsciiDoc].
+
+== First Section
+
+* item 1
+* item 2
+
+[source,ruby]
+puts "Hello, World!"
